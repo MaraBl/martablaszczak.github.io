@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "https://github.com/MaraBl/martablaszczak.github.io",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaraBl/martablaszczak.github.io.git"
+  },
+  "keywords": [],
+  "author": "mara",
+  "license": "ISC",
+  "homepage": "https://github.com/MaraBl/martablaszczak.github.io#readme",
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/MaraBl/martablaszczak.github.io/issues"
+  }
+}
