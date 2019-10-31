@@ -50,12 +50,11 @@ outline: none;
 }
 
 
-
-
 /*NAVBAR AND NAVIGATION*/
 
 .navbar {
- background-color: rgba(0, 0, 0, 0.74);
+ background-color: rgba(0, 0, 0, 0.64);
+ margin-bottom: 400px;
 }
 .navbar {
   text-align: center;
@@ -71,37 +70,24 @@ outline: none;
 
 .navbar img {
   max-height: 40px;
+  margin-right: 100px;
 }
+
 .navbar-toggler {
   float: right;
 }
 
-.navbar-brand {
-  margin: 0 5% 0 4%;
-}
-
 .nav-item {
   min-width: 200px;
-  text-align: center;
 }
 
 .nav-item a {
   font-size: 20px;
+  color:#fff;
 }
 
-.collapse {
-  margin-left: 10%;
-}
-.navbar-collapse a {
-  float: right;
-}
-
-
-/* HERO */
-
-.hero {
-  text-align: center;
-  min-height: 400px;
+.navbar.navbar-9 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8');
 }
 
 
@@ -397,8 +383,6 @@ footer .copy .col-12 > p {
   .container {margin: 0; padding: 0;}
   .container .row {margin: 0; border-radius: 0;}
   .container h2 {margin: 8% 0 12% 0;}
-  .navbar-brand {width: 50px;padding: 0, margin: 0;}
-  .nav-item {min-width: 50px};
   .hero {background-image: url("../images/back.jpeg");}
   #portfolio .col-lg-4 {padding: 3%;}
   footer .row {text-align: left; padding: 7%;}
