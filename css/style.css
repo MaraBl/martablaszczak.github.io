@@ -135,7 +135,7 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
 /*STACK */
 
 #stack {
-  padding: 0 5% 5% 5%;
+  padding: 0 5%;
   margin-bottom: 8%;
   background-color: rgba(250, 250, 250, 0.84);
 }
@@ -149,6 +149,13 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
   margin: 9% 5%;
 }
 
+#stack p {
+  font-size: 14px;
+}
+
+#stack .col-sm-12 {
+	margin-bottom: 8%;
+}
 /* PORTFOLIO */
 
 .isotopeWrapper article {
@@ -289,7 +296,7 @@ nav#filter {
 #portfolio button {
   background-color:  rgba(0, 0, 0, 0.64);
   margin: 5%;
-  padding: 1%; 
+  padding: 2%; 
 }
 
 #portfolio button:hover {
@@ -298,6 +305,7 @@ nav#filter {
 
 #portfolio button a {
   text-decoration: none;
+  font-size: 18px;
   color: #fff;
 }
 
