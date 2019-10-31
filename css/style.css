@@ -142,7 +142,7 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
 /*STACK */
 
 #stack {
-  padding: 0 5%;
+  padding: 0 3%;
   margin-bottom: 8%;
   background-color: rgba(250, 250, 250, 0.84);
 }
@@ -160,9 +160,6 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
   font-size: 14px;
 }
 
-#stack .col-2 {
-  margin: 3%;
-}
 
 #stack .col-sm-12 {
 	margin-bottom: 8%;
@@ -404,6 +401,7 @@ footer .copy .col-12 > p {
   .container h2 {margin: 8% 0 12% 0;}
   .navbar img {margin-right: 10px;}
   .info .col-lg-3 {margin: 3% 1%;}
+  #stack .col-2 {margin: 3%;}
   #portfolio .col-lg-4 {padding: 3%;}
   footer .row {text-align: left; padding: 7%;}
   footer .row .link {margin: 3% 0; padding: 1%;}
