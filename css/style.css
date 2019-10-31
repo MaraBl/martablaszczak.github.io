@@ -132,7 +132,7 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
   box-shadow: 2px 2px 4px #000000;
   border-radius: 3%;
   padding: 1%;
-  margin: 3% 0 3% 5%;
+  margin: 3%;
 }
 
 /*STACK */
@@ -154,6 +154,10 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
 
 #stack p {
   font-size: 14px;
+}
+
+#stack .col-2 {
+  margin: 3%;
 }
 
 #stack .col-sm-12 {
@@ -395,6 +399,7 @@ footer .copy .col-12 > p {
   .container .row {margin: 0; border-radius: 0;}
   .container h2 {margin: 8% 0 12% 0;}
   .navbar img {margin-right: 10px;}
+  .info .col-lg-3 {margin: 3% 1%;}
   #portfolio .col-lg-4 {padding: 3%;}
   footer .row {text-align: left; padding: 7%;}
   footer .row .link {margin: 3% 0; padding: 1%;}
