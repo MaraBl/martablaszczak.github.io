@@ -49,6 +49,9 @@ a:active {
 outline: none; 
 }
 
+p {
+	line-height: 30px;
+}
 
 /*NAVBAR AND NAVIGATION*/
 
