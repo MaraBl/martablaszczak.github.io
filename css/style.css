@@ -77,7 +77,11 @@ p {
 }
 
 .navbar-toggler {
-  float: right;
+  float: right; 
+}
+
+.navbar-toggler:active {
+  outline: none;
 }
 
 .nav-item {
