@@ -411,7 +411,6 @@ footer .copy .col-12 > p {
 /* MEDIA QUERIES*/
 
 @media (max-width: 767.98px) { 
-  body {background-color: #000000; background-image: url("../images/backsmall.jpeg");}
   .container {margin: 0; padding: 0;}
   .container .row {margin: 0; border-radius: 0;}
   .container h2 {margin: 8% 0 12% 0;}
