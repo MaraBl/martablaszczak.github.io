@@ -17,17 +17,17 @@ body {
   position: relative;
   font-family: 'Lato', sans-serif;
   background-image: url("../images/back.jpeg");
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: top;
-background-size: cover;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-height: 100%;
-width: 100%;
-background-position: center center;
-background-repeat: no-repeat;}
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -62,7 +62,8 @@ p {
 
 .navbar {
  background-color: rgba(0, 0, 0, 0.64);
- margin-bottom: 400px;
+ position: fixed;
+ width: 100%;
 }
 .navbar {
   text-align: center;
@@ -102,6 +103,11 @@ p {
 background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FBD8');
 }
 
+/*HERO*/
+
+.hero {
+	min-height: 350px; 
+}
 
 /* ABOUT SECTION */
 
