@@ -161,6 +161,10 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
   text-align: center;
 }
 
+#stack .col-2 {
+	padding: 0;
+	text-align: center;
+}
 
 #stack .col-sm-12 {
 	margin-bottom: 8%;
