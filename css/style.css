@@ -16,6 +16,7 @@ html {
 body {
   position: relative;
   font-family: 'Lato', sans-serif;
+  background-color: #026d7f;
   background-image: url("../images/back.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -168,7 +169,7 @@ background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=00FB
 }
 
 #stack p {
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
 }
 
@@ -421,8 +422,8 @@ footer .copy .col-12 > p {
   footer .row {text-align: left; padding: 7%;}
   footer .row .link {margin: 3% 0; padding: 1%;}
   footer .row .col-sm-12 {margin-bottom: 5%;}
-  footer a {font-size: 16px;}
-  .navbar a {font-size: 16px;}
+  footer a {font-size: 14px;}
+  .navbar a {font-size: 14px;}
 }
 
 @media (max-width: 991.98px) {
