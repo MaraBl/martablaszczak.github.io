@@ -36,6 +36,7 @@ body {
   height: auto;
  }
 
+.container h1,
 .container h2 {
   text-align: center;
   width: 100%;
